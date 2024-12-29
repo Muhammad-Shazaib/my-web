@@ -140,7 +140,7 @@ export default function Hero() {
 
       {/* Gear Up Section */}
       <div className="bg-white py-16 px-8">
-        <div className="max-w-7xl mx-auto">
+        <div className="max-w-7xl mx-auto">git pull origin master
           <h2 className="text-3xl font-bold text-gray-900 mb-12 text-left">Gear Up</h2>
           
           {/* Shop Men's and Women's with Arrows */}
